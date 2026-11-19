@@ -1,5 +1,5 @@
 # Мой проект
-![Автор проекта]([https://mirhvost.ru/articles/poyavlenie-kotenka-v-dome/](https://i.pinimg.com/736x/c3/73/2b/c3732b780ae8c277892703fc8233c372.jpg) "🙈")
+![Автор проекта](https://mirhvost.ru/articles/poyavlenie-kotenka-v-dome/](https://i.pinimg.com/736x/c3/73/2b/c3732b780ae8c277892703fc8233c372.jpg "🙈")
 
 Добро пожаловать в мой репозиторий! 
 
