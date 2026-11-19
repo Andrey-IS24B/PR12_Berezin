@@ -51,7 +51,7 @@ Class Programm
 {
     static void Main
     {
-        Console.WriteLine("Привет, мир!");
+        Console.WriteLine("Здравствуйте, Илья Александрович!");
     }
 }
 ```
