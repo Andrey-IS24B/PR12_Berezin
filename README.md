@@ -1,5 +1,5 @@
 # Мой проект
-![Автор проекта](https://mirhvost.ru/articles/poyavlenie-kotenka-v-dome/"😋 Эндрю Гарфилд 😋")
+![Автор проекта](https://mirhvost.ru/articles/poyavlenie-kotenka-v-dome/)
 
 Добро пожаловать в мой репозиторий! 
 
